@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://bps.nycu.edu.tw/'>Affiliations</a>. Institute of Biopharmaceutical Sciences, National Yang Ming Chiao Tung University
 
 profile:
   align: right
