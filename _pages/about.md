@@ -23,18 +23,16 @@ announcements:
   limit: 3 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-#### **Decode cellular aging heterogeneity across species, individuals, and age-related diseases.**
+##### **Decode cellular aging heterogeneity across species, individuals, and age-related diseases.**
 
+Aging reshapes cells and tissues in highly heterogeneous ways. Our lab develops experimental and computational approaches to profile these changes at cellular resolution, with a particular emphasis on whole-organism single-cell genomics. We investigate three major questions: What cellular aging mechanisms are conserved across species? Why do individuals age differently? And how does cellular aging contribute to age-related diseases? By integrating comparative biology, single-cell genomics, and computational approaches, we aim to uncover both shared and context-specific principles of cellular aging.
 
+##### **解析跨物種、個體與老化相關疾病中的細胞老化異質性**
 
-
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+老化會以高度異質的方式重塑不同細胞與組織。我們實驗室致力於發展實驗與計算方法，以細胞解析度描繪這些老化相關變化，並特別著重於全生物體單細胞基因體學（whole-organism single-cell genomics）。我們主要探討三個核心問題：哪些細胞老化機制在不同物種間具有保守性？為什麼不同個體具有不同的老化軌跡？以及細胞老化如何影響老化相關疾病？ 透過整合比較生物學、單細胞基因體學與計算分析，我們希望揭示細胞老化中共享且具情境特異性的基本原則。
+   
